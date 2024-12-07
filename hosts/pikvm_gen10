@@ -1,0 +1,6 @@
+Port = 657
+Ed25519PublicKey = DP23II6aN/G+jTugunmXqgizYuYpQzPGaZv4ldsdUBA
+
+IndirectData = yes
+SelfIP = 172.31.0.140
+Subnet = 172.31.0.140
